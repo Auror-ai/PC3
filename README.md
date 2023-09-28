@@ -6,7 +6,7 @@
 <title>HTML Practice 3- Links</title>
 </head>
 <body >
-
+ 
 <h2 id="top"> A Few of My Favorite Things</h2>
 <p><a href="#pets">Pets</a> | <a href="#tv">TV shows</a> | <a href="#books">Books</a>  | <a href="#remarks">Remarks</a></p>
 
